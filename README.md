@@ -1,1 +1,1 @@
-# QSnake-qiskit-hackathon-europe-2021
+# |QSnake>-qiskit-hackathon-europe-2021
